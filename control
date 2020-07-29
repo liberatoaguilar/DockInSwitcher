@@ -1,0 +1,9 @@
+Package: com.secondeight1.dockinswitcher
+Name: DockInSwitcher
+Depends: mobilesubstrate, com.imkpatil.floatingdock
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Makes the dock visible in the App Switcher at all times.
+Maintainer: SecondEight1
+Author: SecondEight1
+Section: Tweaks
